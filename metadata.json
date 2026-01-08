@@ -1,0 +1,7 @@
+{
+  "name": "Hypro Cabs Admin Panel",
+  "description": "A comprehensive mobile-first taxi business management system for tracking fleet performance, financial analytics, and fare estimation.\n\n",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
